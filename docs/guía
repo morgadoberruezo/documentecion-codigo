@@ -1,9 +1,9 @@
 # Guía de documentación y actualización de código de nuestro repositorio
 Si consideras que las secciones de guía de usuario y la guía de instalación son más complejas, puedes alojarla en una página web dedicada a ello. 
 Para ello puedes utilizar la funcionalidad de Github-pages. 
-Las herramientas pueden servir para facilitar esta tarea:
+Las herramientas pueden servir para mejorar esta tarea:
 1. Visual Studio Code
-2. cliente de api rest postman
+2. Cliente de api rest postman
 3. Laragon como servidor wen
-4. Ionic como fw de desarrollo
+4. Ionic como fuente de desarrollo
 
