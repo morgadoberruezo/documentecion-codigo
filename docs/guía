@@ -8,4 +8,5 @@ Las herramientas pueden servir para mejorar esta tarea:
 5. Framewok de Angular
 6. La Plataforma Docker Engine
 4. Ionic como fuente de desarrollo
+Ten en cuenta que los conflictos de fusión solo se producirán en el caso de una fusión de 3 vías. Los cambios conflictivos en una fusión de avance rápido no son posibles.
 
