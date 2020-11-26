@@ -8,4 +8,5 @@ Las herramientas pueden servir para mejorar esta tarea:
 5. Framewok de Angular
 6. La Plataforma Docker Engine
 4. Ionic como fuente de desarrollo
+Cuando Git se encuentra un conflicto durante una fusión, editará el contenido de los archivos afectados con indicadores visuales que marquen ambos extremos del contenido conflictivo. Estos
 
